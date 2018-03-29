@@ -1,0 +1,6 @@
+userId,userName,email,password,contactNo,address,dob,userType,creditPoints,token,isDelete
+null,'jyoti padhi','jyotipadhi@gmail.com',
+$2a$10$2j2ZDVgBoLBPZ/v8x95hyuOX1ZBf7YIDruekqc6zVFx.LwfLf67Ba,8788123450,'sardar nagar',
+'1998-06-07','borrower',NULL,NULL,NULL
+null,'kajal','kajal@gmail.com',$2a$10$2j2ZDVgBoLBPZ/v8x95hyuOX1ZBf7YIDruekqc6zVFx.LwfLf67Ba,9510776962,	'pandesara','1999-07-09','borrower',NULL,NULL,NULL
+null,'kiran','kiran@gmail.com',$2$10$2j2ZDVgBoLBPZ/v8x95hyuOX1ZBf7YIDruekqc6zVFx.LwfLf67Ba,7908907878,'housing','1999-01-01','borrower',NULL,NULL,NULL

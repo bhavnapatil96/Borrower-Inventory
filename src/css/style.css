@@ -1,0 +1,32 @@
+.body {
+    color: #777;
+    font: normal 15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOTZrhw-_vHoW_Oz2gcG8wX-lmlrKs89XJcSjMUvbTuO2E42nReA');
+
+}
+
+.navbar-inverse {
+    background-color: #FCE1E5;
+    border-color: #ffffff;
+}
+
+.footer {
+    background-color: #FCE1E5;
+    bottom: 0;
+    position: relative;
+    width:100%;
+}
+.foot{
+    background-color: lightgrey;
+}
+
+#search {
+    position: relative;
+    font-size: 18px;
+    padding-top: 40px;
+    margin: -20px auto 0;
+}
+/*.header-nav{*/
+    /*color: #000 !important;*/
+    /*font-weight: bold;*/
+/*}*/

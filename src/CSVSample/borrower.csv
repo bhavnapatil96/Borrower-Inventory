@@ -1,0 +1,3 @@
+userId;userName;email;password;contactNo;address;dob;userType;creditpoints;token;isDelete
+NULL    'jyoti;'jyoti';'jyotipadhi@gmail.com';$2a$10$2j2ZDVgBoLBPZ/v8x95hyuOX1ZBf7YIDruekqc6zVFx.LwfLf67Ba,8788123450;9510776967;'sardar nagar';1998-06-07';borrower';NULL;NULL;NULL
+NULL    'jyoti;'kajal';'kajal@gmail.com';$2a$10$2j2ZDVgBoLBPZ/v8x95hyuOX1ZBf7YIDruekqc6zVFx.LwfLf67Ba,8788123450;8899776699;'pandesara';1995-08-07';borrower';NULL;NULL;NULL

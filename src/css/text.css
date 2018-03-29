@@ -1,0 +1,9 @@
+.text-style-p{
+    text-align: left;
+    font-family: 'Lato', sans-serif;
+    color: dodgerblue;
+    font-size: 20px;
+}
+.list-inline{
+    style:inline;
+}

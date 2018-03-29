@@ -1,0 +1,3 @@
+productId,productName,categoryId,manufacturer,userId,stock,price,photo,discount,description,isApprove,isDelete
+NULL,"Projector",2,"ABC",23,10,100,"1.jpg",10,"dfg",NULL,NULL
+NULL,"Chair",3,"ABC",23,10,100,"1.jpg",10,"dfg",NULL,NULL

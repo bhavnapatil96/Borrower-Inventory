@@ -1,0 +1,17 @@
+.box{
+    border: 1px solid green;
+    width:40%;
+    height: 30%;
+    padding: 2%;
+}
+.sidebar{
+    color:white;
+    background-color: darksalmon;
+    align-items: left;
+    align-content: left;
+    width:20%;
+    float: left;
+    padding: 15px;
+    margin: 15px;
+    height: 5%;
+}
